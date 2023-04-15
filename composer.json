@@ -1,0 +1,6 @@
+{
+    "require": {
+        "endroid/qr-code": "^4.6",
+        "zxing/qr-reader": "^1.2"
+    }
+}
