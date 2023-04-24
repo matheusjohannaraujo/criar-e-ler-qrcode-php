@@ -1,4 +1,4 @@
-# [QRCodePHP](https://github.com/matheusjohannaraujo/qrcodephp)
+# [Criar e Ler QRCode em PHP](https://github.com/matheusjohannaraujo/criar-e-ler-qrcode-php)
 
 ```php
 const DEVELOPER_INFO = [
